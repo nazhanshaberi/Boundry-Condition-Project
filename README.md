@@ -6,3 +6,5 @@ The problem given is an industrial cooling system is used to provide cold air wi
 𝜕2𝑇/𝜕𝑥+𝜕2𝑇/𝜕𝑦=0
 
 Individual students are assigned to different geometric parameters. The spacing a, b, c and d are different from each student. For mine, 𝑎=3 𝑏=2 𝑐=4 𝑑=2
+
+https://media-exp1.licdn.com/dms/image/C5622AQHjI_U6iOLkSw/feedshare-shrink_800/0/1607786233816?e=1614816000&v=beta&t=klyLNkyLq3cFlne9aINVWcS-bgFeDbUYq7fo--yVhvI
